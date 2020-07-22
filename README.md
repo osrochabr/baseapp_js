@@ -1,2 +1,1 @@
-# baseapp_js
-Config files for JS Projects
+## Configuration files for JS Projects
